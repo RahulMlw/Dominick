@@ -14,8 +14,12 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
         // Test
-        print("Rahul BHandari")
+<<<<<<< .merge_file_jTAlpl
+        // hjfht ghdf fghf hg dhgf hj j hg gnf
         print("Joga Singh")
+=======
+        print("Rahul BHandari")
+>>>>>>> .merge_file_6xni6p
     }
 
 
