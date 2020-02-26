@@ -15,6 +15,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view, typically from a nib.
         // Test
         // hjfht ghdf fghf hg dhgf hj j hg gnf
+        print("Joga Singh")
     }
 
 
