@@ -1,0 +1,16 @@
+PODS:
+  - IBAnimatable (5.2.1)
+
+DEPENDENCIES:
+  - IBAnimatable
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - IBAnimatable
+
+SPEC CHECKSUMS:
+  IBAnimatable: a46b835ec6875178516cf7e014a40194d6bfa3fc
+
+PODFILE CHECKSUM: 4f76d133f1ccb8d4dc47a95853a4f3905d44bc9e
+
+COCOAPODS: 1.6.1
